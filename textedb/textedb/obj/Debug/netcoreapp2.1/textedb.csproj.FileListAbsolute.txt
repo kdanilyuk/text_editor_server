@@ -1,0 +1,14 @@
+D:\Study\МТ\Course\textedb\textedb\bin\Debug\netcoreapp2.1\textedb.deps.json
+D:\Study\МТ\Course\textedb\textedb\bin\Debug\netcoreapp2.1\textedb.runtimeconfig.json
+D:\Study\МТ\Course\textedb\textedb\bin\Debug\netcoreapp2.1\textedb.runtimeconfig.dev.json
+D:\Study\МТ\Course\textedb\textedb\bin\Debug\netcoreapp2.1\textedb.dll
+D:\Study\МТ\Course\textedb\textedb\bin\Debug\netcoreapp2.1\textedb.pdb
+D:\Study\МТ\Course\textedb\textedb\obj\Debug\netcoreapp2.1\textedb.csprojAssemblyReference.cache
+D:\Study\МТ\Course\textedb\textedb\obj\Debug\netcoreapp2.1\textedb.csproj.CoreCompileInputs.cache
+D:\Study\МТ\Course\textedb\textedb\obj\Debug\netcoreapp2.1\textedb.AssemblyInfoInputs.cache
+D:\Study\МТ\Course\textedb\textedb\obj\Debug\netcoreapp2.1\textedb.AssemblyInfo.cs
+D:\Study\МТ\Course\textedb\textedb\obj\Debug\netcoreapp2.1\textedb.dll
+D:\Study\МТ\Course\textedb\textedb\obj\Debug\netcoreapp2.1\textedb.pdb
+D:\Study\МТ\Course\textedb\textedb\obj\Debug\netcoreapp2.1\textedb.RazorAssemblyInfo.cache
+D:\Study\МТ\Course\textedb\textedb\obj\Debug\netcoreapp2.1\textedb.RazorAssemblyInfo.cs
+D:\Study\МТ\Course\textedb\textedb\obj\Debug\netcoreapp2.1\textedb.RazorTargetAssemblyInfo.cache

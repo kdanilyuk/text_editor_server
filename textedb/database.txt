@@ -1,0 +1,13 @@
+kostya:123456:user:true
+Katya:432213:user:true
+user:test:user:true
+digital:1111:user:true
+admin:pass:admin:true
+pasha_harik:12345:user:true
+konfetaa:kostya2000:user:true
+dedede:dedede:user:true
+maxxx:maxx:user:true
+konfeta:petyx123:user:true
+bolt:11111:user:true
+student:1111:user:true
+oleg_bogorad_prosto_rad:1234qwer:user:true
